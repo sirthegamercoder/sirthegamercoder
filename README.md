@@ -6,7 +6,7 @@ I'm a Artist Dev also FNF Modder.
 
 - Pixellab (For edit image and making thumbnail)
 - Ibis Paint X & Kleki (For draw something)
-- Pydroid 3 & FNF Spritesheet and XML Generator Web (For optimize a spritesheet)
+- Pydroid 3 & Spritesheet and XML Generator Web (For optimize a spritesheet)
 
 ## GitHub Stats
 
