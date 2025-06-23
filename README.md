@@ -1,13 +1,16 @@
-# Hi there, I'm sirthegamercoder!
+# About Me
 
-I'm a Artist Dev also FNF Modder.
+Hey there! My name is sirthegamercoder & I'm from Indonesian (Indonesia) and I'm an artist, dev also FNF modder. I like to make art, games (rarely) and mods.
 
-## Apps and Websites I used
+---
 
-- Pixellab (For edit image and making thumbnail)
-- Ibis Paint X & Kleki (For draw something)
-- Pydroid 3 & Spritesheet and XML Generator Web (For optimize a spritesheet)
+## Tools that I use
+- Pixellab
+- IbisPaint X & Kleki
+- Pydroid 3 & Spritesheet and XML Generator Web
 
-## GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&show_icons=true&theme=radical)
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&show_icons=true&theme=radical)
