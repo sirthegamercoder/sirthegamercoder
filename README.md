@@ -7,7 +7,7 @@ Hey there! My name is sirthegamercoder & I'm from Indonesian (Indonesia) and I'm
 ## Tools that I use
 - Pixellab
 - IbisPaint X & Kleki
-- Pydroid 3 & Spritesheet and XML Generator Web
+- Funker' Optimizer & Spritesheet and XML Generator Web
 
 ---
 
