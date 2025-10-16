@@ -21,4 +21,4 @@ Hey there! My name is sirthegamercoder & I'm from Indonesia(n) and I'm an artist
 | [Funker Optimizer'](https://github.com/sirthegamercoder/Funker-Optimizer) | Myself |
 | [FNF NovaFlare Engine](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine) | [NovaFlare-Engine-Concentration](https://github.com/NovaFlare-Engine-Concentration)
 | [AB Download Manager](https://github.com/amir1376/ab-download-manager) | [amir1375](https://github.com/amir1376)
-| [Chromatic-Scale-Generator-Plus-Remastered](https://github.com/immalloy/Chromatic-Scale-Generator-Plus-Remastered) | [immalloy](https://github.com/immalloy)
+| [Chromatic Scale Generator PLUS! (Remastered)](https://github.com/immalloy/Chromatic-Scale-Generator-Plus-Remastered) | [immalloy](https://github.com/immalloy)
