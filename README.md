@@ -10,7 +10,7 @@ Hey there! My name is sirthegamercoder aka MTGC & I'm from Indonesia(n) and I'm 
 - Spritesheet and XML Generator Web
 
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&show_icons=true&theme=radical)
+![sirthegamercoder's Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
