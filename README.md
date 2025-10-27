@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! My name is sirthegamercoder aka MTGC & I'm from Indonesia(n) and I'm an artist, dev also Friday Night Funkin' (FNF) modder. I like to make art, games (rarely) and mods.
+Hey there! My name is MTGC & I'm from Indonesia(n) and I'm an artist, dev also Friday Night Funkin' (FNF) modder. I like to make art, games (rarely) and mods.
 
 ---
 
@@ -10,7 +10,7 @@ Hey there! My name is sirthegamercoder aka MTGC & I'm from Indonesia(n) and I'm 
 - Spritesheet and XML Generator Web
 
 ---
-![sirthegamercoder's Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
+![MTGC's Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
