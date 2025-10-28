@@ -1,6 +1,6 @@
 # About Me
 
-I am from Indonesian and I am an artist, dev, and Friday Night Funkin' (FNF) modder. I also create art, games (occasionally), and mods. In addition, you can also call me sirthegamercoder if you want.
+Hello, my name is MTGC and I am from Indonesian and also I am an artist, dev, and Friday Night Funkin' (FNF) modder. I also create art, games (occasionally), and mods. In addition, you can also call me sirthegamercoder if you want.
 
 ---
 
