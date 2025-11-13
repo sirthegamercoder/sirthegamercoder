@@ -11,11 +11,3 @@ Hello, my name is MTGC and I am from Indonesian and also I am an artist, dev, an
 
 ---
 ![MTGC's Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
-
----
-
-# Contributions:
-| Repository Name | Owned by |
-| --------------- | -------- |
-| [Funker Optimizer'](https://github.com/sirthegamercoder/Funker-Optimizer) | Myself |
-| [Chromatic Scale Generator PLUS! (Remastered)](https://github.com/immalloy/Chromatic-Scale-Generator-Plus-Remastered) | [immalloy](https://github.com/immalloy)
