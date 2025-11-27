@@ -6,7 +6,6 @@ Hello, my name is MTGC and I am from Indonesian and also I am an artist, dev, an
   
   ![GitHub followers](https://img.shields.io/github/followers/sirthegamercoder?style=social)
   ![GitHub User's stars](https://img.shields.io/github/stars/sirthegamercoder?style=social)
-  ![My Profile Views](https://komarev.com/ghpvc/?username=sirthegamercoder&color=blueviolet)
   
 </div>
 
