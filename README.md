@@ -15,7 +15,7 @@ Hello, my name is sirthegamercoder and I am from Indonesia (aka Indonesian) and 
 - [Funker' Optimizer](https://github.com/sirthegamercoder/Funker-Optimizer)
 - [File Creation Time Updater](https://github.com/sirthegamercoder/File-Creation-Time-Updater)
 - [Renamer File Automatic](https://github.com/sirthegamercoder/Renamer-File-Automatic)
-- [Psych Engine Mobile SirBuild](https://github.com/sirthegamercoder/Psych-Engine-Mobile-SirBuild)
+- [Psych Engine Mobile SirFanBuild](https://github.com/sirthegamercoder/Psych-Engine-Mobile-SirFanBuild)
 
 ---
 ![MTGC's Stats](https://github-readme-stats.vercel.app/api?username=sirthegamercoder&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
