@@ -19,4 +19,4 @@ I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-Pl
 - [Renamer File Automatic](https://github.com/sirthegamercoder/Renamer-File-Automatic)
 
 # NOTICE
-**My Bluesky account will be deactivated starting tomorrow until March 20.**
+**My Bluesky account will be deactivated starting February 18 until March 21.**
