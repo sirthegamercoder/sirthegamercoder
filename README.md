@@ -11,7 +11,7 @@ Hello, my name is sirthegamercoder and I am from Indonesia (aka Indonesian) and 
 
 ---
 
-I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine) and [Silly Engine](https://github.com/sirthegamercoder/FNF-SillyEngine) (My engine)
+I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine)
 
 ## My Workspace
 - [Funker' Optimizer](https://github.com/sirthegamercoder/Funker-Optimizer)
