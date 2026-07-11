@@ -14,7 +14,7 @@ Hello, my name is sirthegamercoder and I am from Indonesia (aka Indonesian) and 
 I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-PlusEngine)
 
 ## My Workspace
-- [Funker' Optimizer](https://github.com/sirthegamercoder/Funker-Optimizer)
+- [Funker' Optimizer](https://github.com/sirthegamercoder/Funker-Optimizer) (Obsolete)
 - [File Creation Time Updater](https://github.com/sirthegamercoder/File-Creation-Time-Updater)
 - [Renamer File Automatic](https://github.com/sirthegamercoder/Renamer-File-Automatic)
 - [Codename to Psych Character Converter](https://github.com/sirthegamercoder/Codename-to-Psych-Character-Converter)
