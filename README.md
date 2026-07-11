@@ -20,3 +20,4 @@ I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-Pl
 - [Codename to Psych Character Converter](https://github.com/sirthegamercoder/Codename-to-Psych-Character-Converter)
 - [JSON2MIDI](https://github.com/sirthegamercoder/JSON2MIDI) (Obsolete)
 - [FNF Chart Generator Redux](https://github.com/sirthegamercoder/FNF-Chart-Generator-Redux)
+- [Funker Optimizer REBORN](https://github.com/sirthegamercoder/Funker-Optimizer-REBORN)
