@@ -23,3 +23,4 @@ I'm currently working on [Plus Engine](https://github.com/Psych-Plus-Team/FNF-Pl
 - [Funker Optimizer REBORN](https://github.com/sirthegamercoder/Funker-Optimizer-REBORN)
 - [Sillychillred Utility Toolbox](https://github.com/sirthegamercoder/Sillychillred-s-Utility-Toolbox)
 - [Turbowarp Packager Lite](https://github.com/sirthegamercoder/Turbowarp-Packager-Lite) (Obsolete)
+- [Turbowarp Packager Lite Revival](https://github.com/sirthegamercoder/Turbowarp-Packager-Lite-Revival)
